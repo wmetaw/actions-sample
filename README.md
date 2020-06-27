@@ -1,0 +1,1 @@
+https://github.com/wmetaw/actions-sample/workflows/actions-sample-go-test/badge.svg?branch=master
