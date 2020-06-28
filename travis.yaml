@@ -1,0 +1,12 @@
+language: go
+
+go:
+  - 1.x
+  - "1.10"
+  - 1.11.x
+  - master
+
+install: true # インストールフェーズのスキップ
+
+script:
+  - env go test -cover -v ./...
